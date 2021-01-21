@@ -1,2 +1,3 @@
 import './styles.css';
-import './js/promis';
+import './js/promise-task1';
+import './js/promise-task3';
